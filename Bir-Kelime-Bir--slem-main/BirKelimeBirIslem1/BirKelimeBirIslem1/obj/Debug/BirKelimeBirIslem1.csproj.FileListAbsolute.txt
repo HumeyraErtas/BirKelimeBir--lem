@@ -1,0 +1,12 @@
+C:\Users\humey\Desktop\BirKelimeBirIslem1\BirKelimeBirIslem1\obj\Debug\BirKelimeBirIslem1.csprojAssemblyReference.cache
+C:\Users\humey\Desktop\BirKelimeBirIslem1\BirKelimeBirIslem1\obj\Debug\BirKelimeBirIslem1.Form1.resources
+C:\Users\humey\Desktop\BirKelimeBirIslem1\BirKelimeBirIslem1\obj\Debug\BirKelimeBirIslem1.IslemEllecs.resources
+C:\Users\humey\Desktop\BirKelimeBirIslem1\BirKelimeBirIslem1\obj\Debug\BirKelimeBirIslem1.IslemKismi.resources
+C:\Users\humey\Desktop\BirKelimeBirIslem1\BirKelimeBirIslem1\obj\Debug\BirKelimeBirIslem1.IslemRandom.resources
+C:\Users\humey\Desktop\BirKelimeBirIslem1\BirKelimeBirIslem1\obj\Debug\BirKelimeBirIslem1.Properties.Resources.resources
+C:\Users\humey\Desktop\BirKelimeBirIslem1\BirKelimeBirIslem1\obj\Debug\BirKelimeBirIslem1.csproj.GenerateResource.cache
+C:\Users\humey\Desktop\BirKelimeBirIslem1\BirKelimeBirIslem1\bin\Debug\BirKelimeBirIslem1.exe.config
+C:\Users\humey\Desktop\BirKelimeBirIslem1\BirKelimeBirIslem1\bin\Debug\BirKelimeBirIslem1.exe
+C:\Users\humey\Desktop\BirKelimeBirIslem1\BirKelimeBirIslem1\bin\Debug\BirKelimeBirIslem1.pdb
+C:\Users\humey\Desktop\BirKelimeBirIslem1\BirKelimeBirIslem1\obj\Debug\BirKelimeBirIslem1.exe
+C:\Users\humey\Desktop\BirKelimeBirIslem1\BirKelimeBirIslem1\obj\Debug\BirKelimeBirIslem1.pdb
